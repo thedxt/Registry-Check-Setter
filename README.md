@@ -1,3 +1,5 @@
+![image](https://github.com/thedxt/Registry-Check-Setter/assets/4249262/bdad9c55-e007-4aa8-92b7-b303fbe645f3)
+
 # Registry Check Setter
 A PowerShell script to check registry settings and set them if they don't exist or correct them if they do exist.
 
