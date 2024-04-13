@@ -13,7 +13,7 @@ A PowerShell script to check registry settings and set them if they don't exist 
 > [!IMPORTANT]
 > The `-reg_type` must be defined the only valid options are `Binary`, `DWord`, `ExpandString`, `MultiString`, `String`, and `QWord`
 
-[More detailed documentation](https://thedxt.ca/)
+[More detailed documentation](https://thedxt.ca/2024/04/registry-check-setter/)
 
 
 > [!TIP]
